@@ -4,9 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: content/data/config.json
-  label: Config
+- type: directory
+  path: content/pages/posts
+  label: Posts
+  create: all
   match: "**/*"
 - type: directory
   path: content/pages
@@ -14,11 +15,9 @@ sections:
   create: documents
   match: "**/*"
   exclude: content/pages/posts
-- type: directory
-  path: content/pages/posts
-  label: Posts
-  create: all
-  match: "**/*"
+- type: document
+  path: content/data/config.json
+  label: Config
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
