@@ -7,8 +7,8 @@ intro_actions: []
 has_more_link: false
 more_link_text: Read more
 seo:
-  title: Stackbit Ampersand Theme
-  description: The preview of the Ampersand theme
+  title: Vera Diary Blog
+  description: 'Just a personal blog for daily diary post '
   extra:
   - name: og:type
     value: website
