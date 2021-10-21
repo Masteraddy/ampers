@@ -3,14 +3,8 @@ title: Home
 has_intro: true
 intro_content: "This is just a simple online diary \U0001F4D2 of a depressed overthinker.
   Just keeping record of the progress. \U0001F609"
-intro_actions:
-- label: Learn More
-  url: "/about"
-  style: primary
-- label: Contact
-  url: "/contact"
-  style: secondary
-has_more_link: true
+intro_actions: []
+has_more_link: false
 more_link_text: Read more
 seo:
   title: Stackbit Ampersand Theme
