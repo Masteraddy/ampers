@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about this blog and little about the owner of the blog.
-img_path: ''
+img_path: "/public/pexels-elti-meshau-333850.jpg"
 img_alt: A man standing on a rock outside the cave
 seo:
   title: About Me
@@ -22,22 +22,22 @@ seo:
     relativeUrl: true
   - name: twitter:card
     value: summary_large_image
+    keyName: ''
   - name: twitter:title
     value: About Me
+    keyName: ''
   - name: twitter:description
     value: This is the about me page
+    keyName: ''
   - name: twitter:image
     value: images/about.jpg
     relativeUrl: true
+    keyName: ''
 layout: page
 
 ---
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+This blog is just a diary blog to put my mind on. It might be interesting or not interesting. But I wish it could be interesting but you can read through if you like.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I found out that the best way to let some things go is to share your heart with someone. So if you read it, you're my online friend.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+_Thank You for reading!_
