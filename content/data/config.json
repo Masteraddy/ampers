@@ -5,7 +5,7 @@
   "palette": "blue",
   "header": {
     "title": "Vera",
-    "logo_img": "images/logo.svg",
+    "logo_img": "",
     "logo_img_alt": "Vera Diary",
     "has_nav": true,
     "nav_links": [
