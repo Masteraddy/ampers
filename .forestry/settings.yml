@@ -9,7 +9,7 @@ sections:
   label: Pages
   create: documents
   match: "**/*"
-  exclude: posts
+  exclude: content/pages/posts
 - type: directory
   path: content/pages/posts
   label: Posts
