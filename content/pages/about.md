@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about this blog and little about the owner of the blog.
-img_path: images/about.jpg
+img_path: ''
 img_alt: A man standing on a rock outside the cave
 seo:
   title: About Me
