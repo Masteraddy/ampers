@@ -49,3 +49,5 @@ fields:
 - type: text
   name: layout
   label: layout
+pages:
+- content/pages/posts/does-everyone-s-opinion-matters-in-your-life.md
