@@ -2,7 +2,7 @@
 title: Get in Touch
 img_path: images/contact.jpg
 img_alt: Post in the door mailbox
-form_id: contactForm
+form_id: Contact-Form
 form_action: https://formspree.io/f/xnqlygoy
 form_fields:
 - input_type: text
